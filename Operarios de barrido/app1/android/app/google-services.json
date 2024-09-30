@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306871972058",
+    "project_id": "operarios-de-barrido",
+    "storage_bucket": "operarios-de-barrido.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306871972058:android:05d5bf5d22ac95fab635e3",
+        "android_client_info": {
+          "package_name": "com.example.app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXEhunQSDO05qWShxOPqqtFZ9sf0Q-cGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
